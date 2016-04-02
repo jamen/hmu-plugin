@@ -36,6 +36,9 @@ Log a warning under the plugin's name.
 Log an error under the plugin's name.
  - `err` (`Error`): Error to log.
 
+### `util.c`
+Quick reference to [`chalk`](https://github.com/chalk/chalk).
+
 ### `util.get(opts, [mod])`
 A simple Promise wrapper for Node's `http.get`.
  - `opts` (`Object`, `String`): Options to pass to `http.get`.
