@@ -1,6 +1,8 @@
 # hmu-plugin
 > Plugin utilities for normalizing output
 
+A small utility library for [`hmu`](https://github.com/jamen/hmu) plugins...  Used for normalizing log output, and shorthand functions for common tasks.
+
 ## Installation
 ```shell
 $ npm install hmu-plugin
