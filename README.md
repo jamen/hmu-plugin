@@ -28,7 +28,7 @@ Log the plugin's title.
 Log a message under the plugin's name.
  - `message` (`String`): Message to log.
 
-### `util.warm(message)`
+### `util.warn(message)`
 Log a warning under the plugin's name.
  - `message` (`String`): Message to log.
 
