@@ -18,8 +18,8 @@
     "lib"
   ],
   "keywords": [
-    "hmu",
-    "utility"
+    "utility",
+    "plugins"
   ],
   "devDependencies": {
     "eslint": "^2.6.0",
